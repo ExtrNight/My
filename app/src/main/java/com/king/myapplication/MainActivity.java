@@ -24,8 +24,8 @@ public class MainActivity extends AppCompatActivity {
         Log.i("222222222222222", "onCreate: ");
         Log.i("222222222222222", "onCreate: ");
         Log.i("222222222222222", "onCreate: ");
-        Log.i("222222222222222", "onCreate: ");
-        Log.i("222222222222222", "onCreate: ");
+        Log.i("222222222222222", "onCreate:1 ");
+        Log.i("222222222222222", "onCreate: 2");
 
         Dialog d = new Dialog(this);
         Log.i("22222", "onCreate: 1");
