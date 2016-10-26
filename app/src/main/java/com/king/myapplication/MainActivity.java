@@ -20,6 +20,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("jjj", "onCreate: ");
 
 
-        Log.i("22222", "onCreate: ");
+        Log.i("22222", "onCreate: 1");
     }
 }
