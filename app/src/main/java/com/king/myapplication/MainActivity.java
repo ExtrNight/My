@@ -1,5 +1,6 @@
 package com.king.myapplication;
 
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -26,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("222222222222222", "onCreate:1 ");
         Log.i("222222222222222", "onCreate: 2");
 
-
+        Handler handler = new Handler();
         Log.i("22222", "onCreate: 1");
     }
 }
