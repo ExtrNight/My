@@ -1,6 +1,7 @@
 package com.king.myapplication;
 
 import android.app.Dialog;
+import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
@@ -29,7 +30,9 @@ public class MainActivity extends AppCompatActivity {
 
         Dialog d = new Dialog(this);
         Dialog ff = new Dialog(this);
-Handler handler = new Handler();
+        Dialog aa= new Dialog(this);
+        Dialog bb = new Dialog(this);
+        Handler handler = new Handler();
         Log.i("22222", "onCreate: 1");
     }
 }
