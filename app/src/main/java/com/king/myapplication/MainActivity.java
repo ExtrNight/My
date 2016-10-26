@@ -5,6 +5,9 @@ import android.os.Handler;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
+import android.widget.TextView;
+
+import org.w3c.dom.Text;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -33,6 +36,8 @@ public class MainActivity extends AppCompatActivity {
         Dialog aa= new Dialog(this);
         Dialog bb = new Dialog(this);
         Handler handler = new Handler();
+        TextView textView = new TextView(this);
+        TextView textView1 = new TextView(this);
         Log.i("22222", "onCreate: 1");
         Handler handler1 = new Handler();
     }
