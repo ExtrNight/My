@@ -29,6 +29,7 @@ public class MainActivity extends AppCompatActivity {
 
         Dialog d = new Dialog(this);
         Dialog ff = new Dialog(this);
+Handler handler = new Handler();
         Log.i("22222", "onCreate: 1");
     }
 }
