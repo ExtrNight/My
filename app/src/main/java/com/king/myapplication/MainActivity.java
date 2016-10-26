@@ -34,5 +34,6 @@ public class MainActivity extends AppCompatActivity {
         Dialog bb = new Dialog(this);
         Handler handler = new Handler();
         Log.i("22222", "onCreate: 1");
+        Handler handler1 = new Handler();
     }
 }
