@@ -24,6 +24,7 @@ public class MainActivity extends AppCompatActivity {
         Log.i("222222222222222", "onCreate: ");
         Log.i("222222222222222", "onCreate: ");
         Log.i("222222222222222", "onCreate: ");
+        Log.i("222222222222222", "onCreate: ");
 
 
         Log.i("22222", "onCreate: ");
