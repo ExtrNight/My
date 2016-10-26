@@ -36,8 +36,8 @@ public class MainActivity extends AppCompatActivity {
         Dialog aa= new Dialog(this);
         Dialog bb = new Dialog(this);
         Handler handler = new Handler();
-
         TextView textView = new TextView(this);
+        TextView textView1 = new TextView(this);
         Log.i("22222", "onCreate: 1");
     }
 }
